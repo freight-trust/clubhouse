@@ -1,7 +1,25 @@
-# clubhouse-cli
+# Clubhouse
 
-[![CircleCI](https://circleci.com/gh/andjosh/clubhouse-cli.svg?style=svg)](https://circleci.com/gh/andjosh/clubhouse-cli)
+## Overview
 
+A valid branch name for this Story:
+
+feature/github-clubhouse/ch515
+Create & checkout a new branch for this Story:
+
+` git checkout -b feature/github-clubhouse/ch515 `
+
+
+A valid commit message for this Story:
+
+GitHub Clubhouse [ch515]
+Link a single commit to this Story:
+
+` git commit -m 'GitHub Clubhouse [ch515]' `
+
+
+
+# Clubhouse-cli
 This is a command line interface for [Clubhouse](https://app.clubhouse.io), focused on the display and manipulation of stories. With this, you can run custom searches, save them as local workspaces, and recall those workspaces. You can also view full stories, update most attributes on a story, and create brand new stories quickly.
 
 ## Table of Contents
@@ -362,12 +380,6 @@ $ npm start -- story 1234
 
 ## Acknowledgments
 
-- [Repository for this code](https://github.com/andjosh/clubhouse-cli)
-- [NPM registry for this code](https://www.npmjs.com/package/clubhouse-cli)
+- [Repository for the command line interface](https://github.com/andjosh/clubhouse-cli)
 - [Clubhouse API](http://clubhouse.io/api/rest/v2/)
 - Official [clubhouse-lib](https://github.com/clubhouse/clubhouse-lib)
-
-## Contributors
-- [andjosh](https://github.com/andjosh)
-- [j-martin](https://github.com/j-martin)
-- [joshmfrankel](https://github.com/joshmfrankel)
