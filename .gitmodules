@@ -1,0 +1,3 @@
+[submodule "clubhouse-cli"]
+	path = clubhouse-cli
+	url = https://github.com/andjosh/clubhouse-cli.git
