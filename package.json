@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Clubhouse Toolchain",
    "files": ["clubhouse-cli/src/*"],
-   "bin": "clubhouse-cli/build/bin/club.js"
+   "bin": "clubhouse-cli/build/bin/club.js",
   "repository": "https://github.com/freight-trust/clubhouse.git",
   "author": "sam <sam@freighttrust.com>",
   "license": "MIT",
