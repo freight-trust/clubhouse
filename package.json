@@ -1,0 +1,10 @@
+{
+  "name": "@freight-trust/clubhouse",
+  "version": "1.0.0",
+  "description": "Clubhouse Toolchain",
+  "main": "index.js",
+  "repository": "https://github.com/freight-trust/clubhouse.git",
+  "author": "sam <sam@freighttrust.com>",
+  "license": "MIT",
+  "private": false
+}
