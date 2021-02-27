@@ -5,7 +5,7 @@ import * as prompt from 'prompt';
 
 import { Config, loadCachedConfig, updateConfig } from '../lib/configure';
 import * as commander from 'commander';
-import Clubhouse from 'clubhouse-lib';
+import Clubhouse from 'clubhouse-lib-api';
 
 const extant = loadCachedConfig();
 const log = console.log;

@@ -382,4 +382,4 @@ $ npm start -- story 1234
 
 - [Repository for the command line interface](https://github.com/andjosh/clubhouse-cli)
 - [Clubhouse API](http://clubhouse.io/api/rest/v2/)
-- Official [clubhouse-lib](https://github.com/clubhouse/clubhouse-lib)
+- Official [clubhouse-lib-api](https://github.com/clubhouse/clubhouse-lib-api)

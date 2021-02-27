@@ -3,7 +3,7 @@ import client from '../lib/client';
 import * as commander from 'commander';
 import chalk from 'chalk';
 
-import { Epic } from 'clubhouse-lib';
+import { Epic } from 'clubhouse-lib-api';
 import spinner from '../lib/spinner';
 
 const log = console.log;

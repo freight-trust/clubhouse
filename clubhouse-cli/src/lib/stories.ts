@@ -17,7 +17,7 @@ import {
     Story,
     Workflow,
     WorkflowState,
-} from 'clubhouse-lib';
+} from 'clubhouse-lib-api';
 
 const debug = debugging('club');
 const config = loadConfig();

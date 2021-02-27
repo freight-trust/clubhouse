@@ -21,7 +21,7 @@ import {
     Task,
     WorkflowState,
     StoryType,
-} from 'clubhouse-lib';
+} from 'clubhouse-lib-api';
 import spinner from '../lib/spinner';
 
 const config = loadConfig();

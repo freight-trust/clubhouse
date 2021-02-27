@@ -5,7 +5,7 @@ import { exec } from 'child_process';
 
 import client from '../lib/client';
 
-import { Epic, Iteration, Project, Story, WorkflowState } from 'clubhouse-lib';
+import { Epic, Iteration, Project, Story, WorkflowState } from 'clubhouse-lib-api';
 import spinner from '../lib/spinner';
 import * as commander from 'commander';
 import { loadConfig } from '../lib/configure';

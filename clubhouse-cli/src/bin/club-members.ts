@@ -4,7 +4,7 @@ import spinner from '../lib/spinner';
 const spin = spinner('Loading... %s ');
 const log = console.log;
 import * as commander from 'commander';
-import { Member } from 'clubhouse-lib';
+import { Member } from 'clubhouse-lib-api';
 import chalk from 'chalk';
 
 const program = commander

@@ -5,7 +5,7 @@ import * as commander from 'commander';
 import client from '../lib/client';
 
 import spinner from '../lib/spinner';
-import { Workflow, WorkflowState } from 'clubhouse-lib';
+import { Workflow, WorkflowState } from 'clubhouse-lib-api';
 
 const spin = spinner();
 const log = console.log;
